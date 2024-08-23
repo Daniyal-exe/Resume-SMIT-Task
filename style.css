@@ -7,6 +7,7 @@ body{
     background-color: #c7f5f5;
 }
 .container{
+    font-family: "Poppins", sans-serif;
     max-width: 1760px;
     width: 70%;
     margin: 20px auto;
@@ -36,6 +37,7 @@ body{
     margin: 0;
     font-size: 44px;
     text-transform: uppercase;
+    font-weight: 600;
 }
 .header p{
     margin: 5px 0;
@@ -79,6 +81,7 @@ body{
 .item h3{
     margin: 0;
     font-size: 16px;
+    font-weight: 600;
 }
 .item h4{
     margin: 5px 0;
